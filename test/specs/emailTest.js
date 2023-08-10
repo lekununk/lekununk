@@ -1,4 +1,6 @@
 import LoginPage from '../pageobjects/login.page.js'
+// node version 18.17.1
+// npm version 9.6.7
 // npx wdio wdio.conf.js
 describe('Application', async() => {
     it('Login and Write an email', async() => {
